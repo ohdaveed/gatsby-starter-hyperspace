@@ -11,7 +11,7 @@ const Features = () => {
     {
       href: '/#',
       image: pic1,
-      heading: '#1',
+      heading: 'Sed ipsum dolor',
       description: 'Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.',
       to: {
         href: '/generic',
@@ -21,7 +21,7 @@ const Features = () => {
     {
       href: '/#',
       image: pic2,
-      heading: '#2',
+      heading: 'Feugiat consequat',
       description: 'Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.',
       to: {
         href: '/generic',

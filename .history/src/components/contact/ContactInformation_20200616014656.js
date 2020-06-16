@@ -14,7 +14,11 @@ const ContactInformation = () => (
       <li>
         <h3>Social</h3>
         <ul className="icons">
-          
+          <li>
+            <a href="/#" className="fa-twitter">
+              <span className="label">Twitter</span>
+            </a>
+          </li>
           <li>
             <a href="https://github.com/ohdaveed" className="fa-github">
               <span className="label">GitHub</span>

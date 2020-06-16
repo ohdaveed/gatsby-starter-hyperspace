@@ -1,9 +1,9 @@
-import React from 'react';
+import React from "react";
 
-const ContactInformation = () => (
+const ContactInformation = () =>
   <section>
     <ul className="contact">
-      <li>
+      <l>
         <h3>Email</h3>
         <a href="/#">arrizon.david@gmail.com</a>
       </li>
@@ -14,25 +14,28 @@ const ContactInformation = () => (
       <li>
         <h3>Social</h3>
         <ul className="icons">
-          
           <li>
-            <a href="https://github.com/ohdaveed" className="fa-github">
+            <a href="/#" className="fa-twitter">
+              <span className="label">Twitter</span>
+            </a>
+          </li>
+          <li>
+            <a href="/#" className="fa-facebook">
+              <span className="label">Facebook</span>
+            </a>
+          </li>
+          <li>
+            <a href="/#" className="fa-github">
               <span className="label">GitHub</span>
             </a>
           </li>
           <li>
-            <a
-              href="https://www.instagram.com/ohdaveeed/"
-              className="fa-instagram"
-            >
+            <a href="/#" className="fa-instagram">
               <span className="label">Instagram</span>
             </a>
           </li>
           <li>
-            <a
-              href="https://www.linkedin.com/in/darrizon/"
-              className="fa-linkedin"
-            >
+            <a href="/#" className="fa-linkedin">
               <span className="label">LinkedIn</span>
             </a>
           </li>
@@ -40,6 +43,5 @@ const ContactInformation = () => (
       </li>
     </ul>
   </section>
-);
 
 export default ContactInformation;
