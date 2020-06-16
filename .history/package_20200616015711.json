@@ -1,14 +1,14 @@
 {
-  "name": "Hyperspace-portfolio",
+  "name": "Hyperspace portfolio",
   "version": "0.0.1",
   "description": "Another portfolio",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ohdaveed/gatsby-starter-hyperspace"
+    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-hyperspace.git"
   },
   "author": {
-    "name": "David Arrizon",
-    "email": "arrizon.david@gmail.com"
+    "name": "Anubhav Srivastava",
+    "email": "anubhav.srivastava00@gmail.com"
   },
   "dependencies": {
     "gatsby": "^2.20.29",
