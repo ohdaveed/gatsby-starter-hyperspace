@@ -24,7 +24,7 @@
     "smoothscroll-polyfill": "^0.4.4"
   },
   "scripts": {
-    "develop": "gatsby develop -p 8080",
+    "develop": "gatsby develop",
     "build": "npm run clean && gatsby build",
     "deploy": "npm run clean && gatsby build --prefix-paths && gh-pages -d public",
     "serve": "gatsby serve",
@@ -42,5 +42,9 @@
     "gatsby-starter",
     "gatsby-starter-hyperspace"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anubhavsrivastava/gatsby-starter-hyperspace/issues"
+  },
+  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-hyperspace#readme"
 }

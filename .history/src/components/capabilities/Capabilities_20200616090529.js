@@ -6,7 +6,7 @@ import CapabilityList from './CapabilityList';
 const Capabilities = () =>
   <section id="two" className="wrapper style3 fade-up">
     <div className="inner">
-      <h2>Skills & Experience</h2>
+      <h2>My Skillsets</h2>
       <p>
         Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam
         turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus,

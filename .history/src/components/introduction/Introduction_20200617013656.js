@@ -5,9 +5,9 @@ const Introduction = () => (
   <section id="intro" className="wrapper style1 fullscreen fade-up">
     <div className="inner">
       <h1>Hola! I'm David.</h1>
-      <h2>
-        I'm a Pathologically Curious Full-Stack Developer.
-      </h2><br/>
+      <p>
+        Pathologically Curious Full-Stack Developer, Plant Dad, & Adventurer.
+      </p>
       <ul className="actions">
         <li>
           <Scroll type="id" element="three">

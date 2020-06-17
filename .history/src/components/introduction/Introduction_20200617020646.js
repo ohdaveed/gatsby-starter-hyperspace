@@ -6,7 +6,7 @@ const Introduction = () => (
     <div className="inner">
       <h1>Hola! I'm David.</h1>
       <h2>
-        I'm a Pathologically Curious Full-Stack Developer.
+        I'm a Pathologically Curious Full-Stack Developer, Plant Dad, & Adventurer.
       </h2><br/>
       <ul className="actions">
         <li>

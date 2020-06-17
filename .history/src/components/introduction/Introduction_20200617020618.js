@@ -6,8 +6,8 @@ const Introduction = () => (
     <div className="inner">
       <h1>Hola! I'm David.</h1>
       <h2>
-        I'm a Pathologically Curious Full-Stack Developer.
-      </h2><br/>
+        I'm a Pathologically Curious Full-Stack Developer, Plant Dad, & Adventurer.
+      </h2>
       <ul className="actions">
         <li>
           <Scroll type="id" element="three">

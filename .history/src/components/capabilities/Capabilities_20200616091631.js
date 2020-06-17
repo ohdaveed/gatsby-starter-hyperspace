@@ -3,7 +3,7 @@ import { Link } from 'gatsby';
 
 import CapabilityList from './CapabilityList';
 
-const Capabilities = () =>
+const Capabilities = () =>zs
   <section id="two" className="wrapper style3 fade-up">
     <div className="inner">
       <h2>Skills & Experience</h2>
