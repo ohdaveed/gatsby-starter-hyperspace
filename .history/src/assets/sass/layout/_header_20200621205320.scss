@@ -16,7 +16,7 @@
     border: 0;
     color: _palette(fg-bold);
     display: block;
-    font-size: 1.25em;
+    font-size: 2em;
     font-weight: _font(weight-bold);
   }
 
@@ -46,7 +46,7 @@
           border: 0;
           color: _palette(fg-light);
           display: inline-block;
-          font-size: 1em;
+          font-size: 2em;
           font-weight: _font(weight-bold);
           letter-spacing: _font(kerning-alt);
           text-transform: uppercase;
@@ -73,7 +73,7 @@
     text-align: left;
 
     .title {
-      font-size: 2em;
+      font-size: 1.25em;
       padding: 1em 0;
     }
 
@@ -83,7 +83,7 @@
 
       > ul {
         > li {
-          margin-left: 2em;
+          margin-left: 1.5em;
 
           a {
             height: 6em;

@@ -20,7 +20,7 @@ const CapabilityList = () => {
       heading: 'React',
       description:
         'Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.',
-      iconClass: 'fa-react',
+      iconClass: 'fa-cog',
     },
     {
       heading: 'Gatsby',
