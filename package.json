@@ -11,6 +11,7 @@
     "email": "arrizon.david@gmail.com"
   },
   "dependencies": {
+    "axios": "^0.19.2",
     "gatsby": "^2.20.29",
     "gatsby-plugin-manifest": "^2.3.6",
     "gatsby-plugin-offline": "^3.1.4",

@@ -35,6 +35,7 @@ const ContactForm = () => {
   return (
     <section>
       <form onSubmit={handleOnSubmit}>
+        
         <div className="fields">
           <div className="field half">
             <label htmlFor="name">Name</label>
@@ -49,18 +50,11 @@ const ContactForm = () => {
             <textarea name="message" id="message" rows="5" />
           </div>
         </div>
-        <button
-          type="submit"
-          className="btn btn-primary"
-          disabled={serverState.submitting}
-        >
-          Submit
-        </button>
-        {serverState.status && (
-          <p className={!serverState.status.ok ? 'errorMsg' : ''}>
-            {serverState.status.msg}
-          </p>
-        )}
+        <ul className="actions">
+          <li>
+            <a className="button submit">Send Message</a>
+          </li>
+        </ul>
       </form>
     </section>
   );
