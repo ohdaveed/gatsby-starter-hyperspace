@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-const ContactForm = () => (
+const ContactForm = () =>
   <section>
     <form method="post" action="#">
       <div className="fields">
@@ -20,16 +20,12 @@ const ContactForm = () => (
       </div>
       <ul className="actions">
         <li>
-          <a
-            href="https://www.flexyform.com/f/12a5c2b1813ebfb7e6966d80045d82f068ffdfa9"
-            className="button submit"
-          >
+          <a href="/#" className="button submit">
             Send Message
           </a>
         </li>
       </ul>
     </form>
   </section>
-);
 
 export default ContactForm;
